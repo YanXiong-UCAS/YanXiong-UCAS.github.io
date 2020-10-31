@@ -34,7 +34,7 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
 
 ------
 
-### PUBLICATIONS
+### **PUBLICATIONS**
 
 #### Papers awaiting publication (First Author)
 
@@ -42,7 +42,7 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
 2. **Yan Xiong**, Liang Guo, Yuting Yang, Hongliang Wang, Chunlong Liu. Intelligent Optimization Strategy Based on Statistical Machine Learning for Spacecraft Thermal Design. *IEEE Access*. (in revision)
 3. **Yan Xiong**, Liang Guo, Defu Tian. Application of Deep Reinforcement Learning to Thermal Control of Space Telescope. *Optik*. (under review)
 4. **Yan Xiong**, Hongyi Li, Liang Guo, Rui Feng, Defu Tian. Surrogate Thermo-physical Model for Spacecraft using Deep Learning. *International Journal of Heat and Mass Transfer*. (prepare for submission)
-5. **Yan Xiong**, Hongyi Li, Liang Guo, Rui Feng, Defu Tian. Application and Verication of Statistical Machine Learning in Spacecraft Thermal Design Optimization. *Journal of Astronomical Telescopes, Instruments, and Systems*. (prepare for submission)
+5. **Yan Xiong**, Hongyi Li, Liang Guo, Rui Feng, Defu Tian. Application and Verification of Statistical Machine Learning in Spacecraft Thermal Design Optimization. *Journal of Astronomical Telescopes, Instruments, and Systems*. (prepare for submission)
 
 #### Peer-reviewed Papers (First Author)
 
@@ -64,7 +64,7 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
 2. Liang Guo, **Yan Xiong**, Yong Huang, Richa Hu, Xusheng Zhang. An intelligent autonomous thermal control system for space telescope in orbit based on multi-agent technology. Chinese invention patent(under review).
 3. Liang Guo, **Yan Xiong**, Yong Huang, Chunlong Liu, Liheng Chen. An intelligent autonomous thermal design algorithm for space telescope based on reinforcement learning. Chinese invention patent(under review).
 
-### PROFESSIONAL EXPERIENCE
+### **PROFESSIONAL EXPERIENCE**
 
 1. **Intelligent and Autonomous Thermal Control Systems for Space and Exploration Technologies**
 
@@ -85,7 +85,7 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
 
 2. **Intelligent Integrated System for In-orbit Simulation of Ultra-large Aperture Space Telescope Based on Deep Reinforcement Learning**
 
-   Major Project of Scientic and Technical Supporting Programs of CIOMP
+   Major Project of Scientific and Technical Supporting Programs of CIOMP
 
    September 2017 - current
 
@@ -110,7 +110,7 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
    - An **intelligent sensitivity analysis framework** based on **Machine Learning** and intelligent batch processing system for space telescope thermal analysis was proposed, which improves the efficiency up to **10 times** compared to the traditional variance-based method;
    - Intelligent thermal control strategy based on **Deep Reinforcement Learning** for space telescope was proposed; Comparing and analysing the traditional methods, the proposed method has a **higher accuracy** of thermal control, and **small overshoot** with **stable control effect**, and published **a paper published by AIAA**.
 
-4. **Thermal Design and Test Verication of FY3 Solar X-Ray and Extreme Ultraviolet Imager**
+4. **Thermal Design and Test Verification of FY3 Solar X-Ray and Extreme Ultraviolet Imager**
 
    National Key R&D Program of China
 
@@ -132,7 +132,7 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
    - **XX Earth-Moon Imaging Spectrometer of CNSA**
    - **Thermodynamic Optimization of Water-cooled Infrastructure for Vehicle Lithium Battery based on Exergy**
 
-### INVITED TALKS AND SEMINARS
+### **INVITED TALKS AND SEMINARS**
 
 1. **2021 AIAA SciTech Forum and Exposition**, "Application of Machine Learning in Thermal Control for Lyman-alpha Solar Telescope", American Institute of Aeronautics and Astronautics (AIAA). Nashville, US
 
@@ -146,7 +146,7 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
 
    November 5-7, 2020
 
-3. **Light Conference 2019**, "Applications of Articial Intelligence in Space Telescopes with Ultra-Large Apertures", Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP), Chinese Academy of Sciences. Changchun, China
+3. **Light Conference 2019**, "Applications of Artificial Intelligence in Space Telescopes with Ultra-Large Apertures", Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP), Chinese Academy of Sciences. Changchun, China
 
    July 2019
 
@@ -154,7 +154,7 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
 
    August 2019
 
-5. **Light Conference 2018**, "Application of Articial Intelligence to the Manufacture and Assembly of Space Telescopes with Ultra-Large Apertures in Orbit", Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP), Chinese Academy of Sciences. Changchun, China
+5. **Light Conference 2018**, "Application of Artificial Intelligence to the Manufacture and Assembly of Space Telescopes with Ultra-Large Apertures in Orbit", Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP), Chinese Academy of Sciences. Changchun, China
 
    July 2018
 
@@ -162,11 +162,11 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
 
    December 2017
 
-7. **Conference on Cognitive Robotics and Articial Intelligence**, "Space Robotics Based on Artificial Intelligence", Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences. Shenzhen, China
+7. **Conference on Cognitive Robotics and Artificial Intelligence**, "Space Robotics Based on Artificial Intelligence", Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences. Shenzhen, China
 
    November 2017
 
-### AWARDS &. HONORS
+### **AWARDS &. HONORS**
 
 | No.  |                       Awards &. Honors                       |       Date        |
 | :--- | :----------------------------------------------------------: | :---------------: |
@@ -179,7 +179,7 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
 | 7    | Second Prize of Shenyang Agricultural University Academic Award | 2011, 2013 (10%)  |
 | 8    | First Prize of Shenyang Agricultural University Academic Award |     2012 (5%)     |
 
-### SKILLS &. OTHERS
+### **SKILLS &. OTHERS**
 
 #### Computer
 
@@ -200,4 +200,3 @@ Aerospace Science and Technology; Acta Astronautica; Journal of Thermophysics an
 #### ResearchGate:
 
  [https://www.researchgate.net/profile/Yan_Xiong35]( https://www.researchgate.net/profile/Yan_Xiong35)
-
